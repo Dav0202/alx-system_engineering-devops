@@ -7,7 +7,7 @@ do
     then
 	    echo "Best School"
     else
-	    echo -e "Hi"
+	    echo -e "Best School\nHi"
     fi
     i=$((i + 1))
 done
